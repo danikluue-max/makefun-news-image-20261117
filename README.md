@@ -9,6 +9,22 @@ A newspaper front page summing up Tuesday 17 November 2026 in one image:
 at a US radar in Bahrain, the first Quad summit in Manila, and 40 more —
 plus a world map of where it happened and a field breakdown.
 
+Round 2: the three lead illustrations were redrawn richer — a dusk bridge
+span broken over the strait with smoke and a rescue boat, a night radar
+station with a sweeping beam and drones under interception, and a Quad
+summit table with four flags, a skyline and protesters at the edge — and
+the Gulf map labels were spread with leader lines.
+
+Round 3: the map was rebuilt bigger and high-contrast (dark continents on
+a pale ocean, graticule, haloed labels), the three leads were enriched
+further (smoother sky gradients, sun/moon glow, more smoke, boats, gulls,
+lit windows, a third protester), and six more stories got full
+illustrations (measles virus + shield, Nvidia chip + rising arrow + coins,
+Gaza dove of peace over a broken wall, Mongolia steppe + resigning figure,
+Ebola virus + clinic tent + PPE worker, COP31 split dark/green + turbine)
+plus three mini-panels (Kyiv bridges hit, Taiwan jets, Bangladesh protest
++ tear gas) — 12 illustrated stories in total, still 43 stories overall.
+
 Built for the make.fun bounty "Sum up 17 November's world news in one image":
 https://make.fun/bounty/news-image-20261117
 
